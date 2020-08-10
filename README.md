@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eddyfrancisco)](https://github.com/eddyfrancisco/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddyfrancisco&layout=compact)](https://github.com/eddyfrancisco/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eddyfrancisco&repo=github-readme-stats)](https://github.com/eddyfrancisco/github-readme-stats)
